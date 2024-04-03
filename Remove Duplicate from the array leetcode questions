@@ -1,5 +1,5 @@
 Leetcode Question - Remove dupliactes from the given sorted array
-Solution - 
+Solution - by two pointer approach
 
 class Solution {
     public int removeDuplicates(int[] nums) {
